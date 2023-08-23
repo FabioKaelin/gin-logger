@@ -2,10 +2,11 @@ package main
 
 import (
 	"context"
-	"editortest/pkg/logger"
 	"fmt"
 
 	"github.com/gin-gonic/gin"
+
+	"editortest/pkg/logger"
 )
 
 func main() {
